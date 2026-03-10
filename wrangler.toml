@@ -5,7 +5,7 @@ compatibility_date = "2024-10-22"
 [[d1_databases]]
 binding = "DB"
 database_name = "cf-nav"
-database_id = ""
+database_id = "f27a44f5-bb8d-4314-90a1-f56fe36467b2"
 
 [vars]
 ADMIN_USERNAME = "admin"  # 后台登录用户名
