@@ -1,0 +1,13 @@
+{
+  "name": "cf-nav",
+  "version": "1.0.0",
+  "description": "Cloudflare Workers 导航网站",
+  "main": "index.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "itty-router": "^4.0.19"
+  }
+}
